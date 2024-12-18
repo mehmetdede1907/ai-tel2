@@ -1,0 +1,10 @@
+{
+  "prompt": "Explain what is OpenTelemetry in one sentence.",
+  "tokens": {
+    "total": 46,
+    "completion": 28,
+    "prompt": 18
+  },
+  "latency_ms": 1178.083,
+  "content": "OpenTelemetry is an open-source project that provides a set of APIs, libraries, agents, and instrumentation to enable observability in applications."
+}

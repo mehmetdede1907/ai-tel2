@@ -1,0 +1,10 @@
+{
+  "prompt": "List three benefits of using OpenTelemetry.",
+  "tokens": {
+    "total": 124,
+    "completion": 108,
+    "prompt": 16
+  },
+  "latency_ms": 1577.857,
+  "content": "1. Standardization: OpenTelemetry provides a standardized way to collect telemetry data, making it easier for developers to instrument their applications and integrate with various monitoring and observability tools.\n\n2. Interoperability: OpenTelemetry is vendor-agnostic and supports multiple programming languages and frameworks, allowing for seamless integration with different systems and environments.\n\n3. Performance Insights: By collecting telemetry data such as traces, metrics, and logs, OpenTelemetry provides valuable insights into the performance of your applications, helping you identify and troubleshoot issues more effectively."
+}

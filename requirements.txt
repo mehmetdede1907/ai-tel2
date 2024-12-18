@@ -1,0 +1,7 @@
+openai
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation
+opentelemetry-exporter-otlp
+python-dotenv
+opentelemetry-instrumentation-requests

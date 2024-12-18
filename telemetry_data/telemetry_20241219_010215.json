@@ -1,0 +1,10 @@
+{
+  "prompt": "Write a haiku about software monitoring.",
+  "tokens": {
+    "total": 27,
+    "completion": 12,
+    "prompt": 15
+  },
+  "latency_ms": 402.714,
+  "content": "Code running smoothly\nMonitoring every step\nAlerting when needed"
+}
